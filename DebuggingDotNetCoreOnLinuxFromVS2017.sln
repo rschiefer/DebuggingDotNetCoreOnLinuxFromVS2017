@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggingDotNetCoreOnLinuxFromVS2017", "DebuggingDotNetCoreOnLinuxFromVS2017\DebuggingDotNetCoreOnLinuxFromVS2017.csproj", "{76683F13-4A87-4844-A074-FED893292232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76683F13-4A87-4844-A074-FED893292232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76683F13-4A87-4844-A074-FED893292232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76683F13-4A87-4844-A074-FED893292232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76683F13-4A87-4844-A074-FED893292232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
